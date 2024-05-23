@@ -50,7 +50,7 @@
 
 
 
-///////////////////////////////////////////////////////////////
+
 <!-- Random -->
 ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
